@@ -16,7 +16,7 @@ On the code:
 
 First usage:
   
-  - Send the code to the device
+  - Open main file and upload it to the device
   - The device will start as AP and emit hotspot network. Connect to the network and go to 192.168.4.1.
   - Insert the needed data on the web page
   - Click submit. The device will restart, connect to WiFi, and start sending POST requests with the value read from the sensor
