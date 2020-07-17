@@ -3,7 +3,7 @@
 This a IoT Plug&Pluy solution for ESP32
 
 It was developed with the objective of creating a low-cost and low-effort IoT solutions.
-With X simple steps  you'll have an independent IoT device that can read values from sensors connected to it and send it to desired API endpoint.
+With 5 simple steps  you'll have an independent IoT device that can read values from sensors connected to it and send it to desired API endpoint.
 
 You'll need:
 
