@@ -1,5 +1,7 @@
 # Low-cost-IoT-Plug-Play
 
+This project was developed by Octávio Braga and Tiago Ferreira under the guidance of professor Luís Frazão and professor António Pereira for the Final Project of the Computer Engeneering degree at Polytechnic of Leiria.
+
 This a IoT Plug&Pluy solution for ESP32
 
 It was developed with the objective of creating a low-cost and low-effort IoT solutions.
