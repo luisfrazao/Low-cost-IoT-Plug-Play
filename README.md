@@ -1,4 +1,7 @@
 # Low-cost-IoT-Plug-Play
+![IPLeiria Logo](/politecnico_h-01.png)
+
+
 
 This project was developed for the Computer Science Project of the Computer Engineering degree at the technology and Management School (ESTG) of the Polytechnic Institute of Leiria by the students Octávio Braga and Tiago Ferreira under the guidance of Professor António Manuel de Jesus Pereira and Professor Luís Alexandre Lopes Frazão. 
 
