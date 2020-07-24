@@ -57,6 +57,7 @@ void loop() {
 
   
   //If connected as AP
+  //Then do this
   if (modeOption == 0) 
   {
       Serial.println("Currently connected as AP!");
