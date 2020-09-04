@@ -29,3 +29,4 @@ First usage:
   - Click submit. 
   - The ESP32 device will restart, connect to your existing Wi-Fi network, and start sending HTTP POST requests with the value read by the sensor.
   
+  
